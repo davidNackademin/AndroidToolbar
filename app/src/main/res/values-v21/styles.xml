@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="MaterialTheme" parent="ParentMaterialTheme">
+        <item name="android:colorControlHighlight">#1ef1ab</item>
+        <item name="android:colorButtonNormal">#f955f3</item>
+        <item name="android:colorControlActivated">#0cf427</item>
+
+    </style>
+
+
+</resources>
